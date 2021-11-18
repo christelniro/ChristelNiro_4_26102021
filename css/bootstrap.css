@@ -1867,7 +1867,6 @@ blockquote {
   padding: 10px 20px;
   margin: 0 0 20px;
   font-size: 17.5px;
-  border-left: 5px solid #eee;
 }
 
 blockquote ol:last-child,
@@ -8066,7 +8065,7 @@ button.close {
   display: table;
   content: " ";
 }
-btn-group-vertical>.btn-group:after,
+btn-group-vertical > .btn-group:after,
 .btn-toolbar:after,
 .clearfix:after,
 .container-fluid:after,
@@ -8081,10 +8080,8 @@ btn-group-vertical>.btn-group:after,
 .pager:after,
 .panel-body:after,
 .row:after {
-    clear: both
+  clear: both;
 }
-
-
 
 .center-block {
   display: block;

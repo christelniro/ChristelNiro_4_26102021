@@ -657,17 +657,16 @@ h4 {
 }
 .tc-white {
   color: #000000 !important;
-  background: orange;
 }
 .col-sm-12 {
   width: 100%;
 }
 .contaiirelogo {
-  background: orange;
+  background: #f3976c;
 }
 .btn-atomic-tangerine {
   background: #000;
-  color: orange !important;
+  color: #f3976c !important;
 }
 .btn-atomic-tangerine:hover {
   background: #c27956 !important;
